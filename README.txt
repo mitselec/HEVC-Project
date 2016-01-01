@@ -1,5 +1,6 @@
 ###########    Contents    ############
 -VHDL Architecture of a DCT Core for HEVC
+ (Will be added soon)
 
 -Matlab implementation of 4, 8, 16, 32 point
  of forward and inverse DCT for HEVC
@@ -11,3 +12,6 @@ Video Coding (HEVC) Standard"
 
 https://www.researchgate.net/publication/256491893_Core_Transform_Design_for_the_High_Efficiency_Video_Coding_HEVC_Standard
 
+#######################################
+
+Dimopoulos Dimitrios 2015-2016
